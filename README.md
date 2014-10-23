@@ -172,80 +172,80 @@ More infos here: https://www.npmjs.org/package/js-yaml
 
 #### Examples on own machine: http://178.62.233.145:1337/
 #####Github: 
-http://178.62.233.145:1337/github (with Box for pasting github-repo)
-Please note that you can **not** use the geojson-extension at the end of the path
-Raw Geojson-Viewer:
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/keepsmiling
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries_small
-Subdirs:
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small
+http://178.62.233.145:1337/github (with Box for pasting github-repo)  
+Please note that you can **not** use the geojson-extension at the end of the path  
+Raw Geojson-Viewer:  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/keepsmiling  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries_small  
+Subdirs:    
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small  
 
-Live-Preview
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/keepsmiling/Preview
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries/Preview
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries_small/Preview
-Subdirs:
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small/Preview
+Live-Preview  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/keepsmiling/Preview  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries/Preview  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries_small/Preview  
+Subdirs:  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small/Preview  
 
-Feature Service (if you want to service as points, change "FeatureServer/0" to "FeatureServer/1"):
+Feature Service (if you want to service as points, change "FeatureServer/0" to "FeatureServer/1"):  
 http://178.62.233.145:1337/github/schlomm/Random_Stuff/keepsmiling/FeatureServer/0
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries/FeatureServer/0
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries_small/FeatureServer/0
-Subdirs:
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small/FeatureServer/0
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries/FeatureServer/0  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries_small/FeatureServer/0  
+Subdirs:  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small/FeatureServer/0  
 
 
 
 #####Gist: 
-http://178.62.233.145:1337/gist (with Box for pasting gist)
-Raw Geojson Viewer:
-http://178.62.233.145:1337/gist/784a0c08c32ca135ed15
-http://178.62.233.145:1337/gist/7f31fce21894cc5529d9
-http://178.62.233.145:1337/gist/9c216118fff9c58fc7fa <--- With Errors
-Subdirs:
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small
+http://178.62.233.145:1337/gist (with Box for pasting gist)  
+Raw Geojson Viewer:  
+http://178.62.233.145:1337/gist/784a0c08c32ca135ed15  
+http://178.62.233.145:1337/gist/7f31fce21894cc5529d9  
+http://178.62.233.145:1337/gist/9c216118fff9c58fc7fa <--- With Errors  
+Subdirs:   
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small  
 
-Live-Preview:
-http://178.62.233.145:1337/gist/784a0c08c32ca135ed15/Preview
-http://178.62.233.145:1337/gist/7f31fce21894cc5529d9/Preview
-http://178.62.233.145:1337/gist/9c216118fff9c58fc7fa/Preview <--- With Errors
-Subdirs:
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small/Preview
+Live-Preview:  
+http://178.62.233.145:1337/gist/784a0c08c32ca135ed15/Preview  
+http://178.62.233.145:1337/gist/7f31fce21894cc5529d9/Preview  
+http://178.62.233.145:1337/gist/9c216118fff9c58fc7fa/Preview <--- With Errors  
+Subdirs:  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small/Preview  
 
-Feature Service (if you want to service as points, change "FeatureServer/0" to "FeatureServer/1"):
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/keepsmiling/FeatureServer/0
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries/FeatureServer/0
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries_small/FeatureServer/0
+Feature Service (if you want to service as points, change "FeatureServer/0" to "FeatureServer/1"):  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/keepsmiling/FeatureServer/0  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries/FeatureServer/0  
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/world_countries_small/FeatureServer/0  
 Subdirs:
-http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small/FeatureServer/0
+http://178.62.233.145:1337/github/schlomm/Random_Stuff/examples::examples::world_countries_small/FeatureServer/0  
 
 
 
 #####Socrata: 
-List all registered socrata-providers: http://178.62.233.145:1337/socrata
-https://data.colorado.gov/Geo-Data/Map-of-Colorado-County-Seats/szgw-bkcc
-http://178.62.233.145:1337/socrata/colorado/szgw-bkcc/
-http://178.62.233.145:1337/socrata/colorado/szgw-bkcc/preview
-http://178.62.233.145:1337/socrata/colorado/szgw-bkcc/FeatureServer/0
+List all registered socrata-providers: http://178.62.233.145:1337/socrata  
+https://data.colorado.gov/Geo-Data/Map-of-Colorado-County-Seats/szgw-bkcc  
+http://178.62.233.145:1337/socrata/colorado/szgw-bkcc/  
+http://178.62.233.145:1337/socrata/colorado/szgw-bkcc/preview  
+http://178.62.233.145:1337/socrata/colorado/szgw-bkcc/FeatureServer/0  
 
-https://data.seattle.gov/Education/Seattle-schools/uanm-dxsk
-http://178.62.233.145:1337/socrata/seattle/uanm-dxsk
-http://178.62.233.145:1337/socrata/seattle/uanm-dxsk/preview
-http://178.62.233.145:1337/socrata/seattle/uanm-dxsk/FeatureServer/0
+https://data.seattle.gov/Education/Seattle-schools/uanm-dxsk  
+http://178.62.233.145:1337/socrata/seattle/uanm-dxsk  
+http://178.62.233.145:1337/socrata/seattle/uanm-dxsk/preview  
+http://178.62.233.145:1337/socrata/seattle/uanm-dxsk/FeatureServer/0  
 
 
 #####AGOL: 
-List all registered agol-providers: http://178.62.233.145:1337/agol/
-Access ArcGIS Online: http://178.62.233.145:1337/agol/arcgis
-**Files are needed (Shapes, csv) and they need to be publicly accessible **
-http://178.62.233.145:1337/agol/arcgis/99de7faee9984377abc4caa2b283ac38
-http://178.62.233.145:1337/agol/arcgis/99de7faee9984377abc4caa2b283ac38/preview
-http://178.62.233.145:1337/agol/arcgis/99de7faee9984377abc4caa2b283ac38/FeatureServer
+List all registered agol-providers: http://178.62.233.145:1337/agol/  
+Access ArcGIS Online: http://178.62.233.145:1337/agol/arcgis  
+**Files are needed (Shapes, csv) and they need to be publicly accessible **  
+http://178.62.233.145:1337/agol/arcgis/99de7faee9984377abc4caa2b283ac38  
+http://178.62.233.145:1337/agol/arcgis/99de7faee9984377abc4caa2b283ac38/preview  
+http://178.62.233.145:1337/agol/arcgis/99de7faee9984377abc4caa2b283ac38/FeatureServer  
 
-Delete Datasets via Rest-get (using e.g. Postman)
-http://178.62.233.145:1337/agol/arcgis/99de7faee9984377abc4caa2b283ac38/0/drop
+Delete Datasets via Rest-get (using e.g. Postman)  
+http://178.62.233.145:1337/agol/arcgis/99de7faee9984377abc4caa2b283ac38/0/drop  
 
-#####DWD-WFS:
-http://178.62.233.145:1337/dwd/dwd:BASISGRUNDKARTE&maxFeatures=50
+#####DWD-WFS:  
+http://178.62.233.145:1337/dwd/dwd:BASISGRUNDKARTE&maxFeatures=50  
 
