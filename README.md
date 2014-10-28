@@ -164,6 +164,7 @@ Kill node.js Server by knowing the running port:
 
 ### Other useful stuff:
 List all installed providers: localhost:1337/providers
+Delete ckan:services via SQL: DELETE FROM "ckan:services" WHERE id = 'govdatadaten' OR id = 'govdatanew';
 
 ----------
 
