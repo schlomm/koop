@@ -162,6 +162,12 @@ Kill node.js Server by knowing the running port:
 
 ----------
 
+### Other useful stuff:
+List all installed providers: localhost:1337/providers
+
+----------
+
+
 #### Error & Fixes
 If there is something to to with the default.yml, you need to install the js-yaml module for nodejs in the "koop/node_modules" folder via
 
