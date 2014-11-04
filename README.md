@@ -44,7 +44,7 @@ For more information check the above link.
 
 	### Database connection to the world:
 	cd /etc/postgresql/9.3/main 
-	sudo nano hba.conf-file
+	sudo nano pg_hba.conf
 	### place the following line: "host all all 0.0.0.0/0 md5" in the corresponding code-block (at the end of the file)
 	sudo nano postgresql.conf 
 	### change the "# CONNECTIONS AND AUTHENTICATION #" part to : listen_addresses = '*' (remove # and paste *)
