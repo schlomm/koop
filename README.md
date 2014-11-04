@@ -129,7 +129,7 @@ For more information check the above link.
 	curl --data "host=https://data.seattle.gov&id=seattle" localhost:1337/socrata
 	curl --data "host=https://data.colorado.gov&id=colorado" localhost:1337/socrata
 #### Get a list for installed socrata providers via:
-	localhost:1337/<id>
+	localhost:1337/socrata/
 #### Get more information about provider by specifying the provider-id:
 	localhost:1337/socrata/<id>
 
