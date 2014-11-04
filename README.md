@@ -65,7 +65,8 @@ For more information check the above link.
 	  "koop-socrata": "https://github.com/chelm/koop-socrata/tarball/master",
 	  "koop-ckan": "https://github.com/chelm/koop-ckan/tarball/master",
 	  "koop-acs": "https://github.com/chelm/koop-acs/tarball/master",
-	  "koop-dwd-wfs": "https://github.com/ubergesundheit/koop-dwd-wfs/tarball/master"
+	  "koop-dwd": "https://github.com/schlomm/koop-dwd/tarball/master",
+	  "koop-ckan_govdata": "https://github.com/schlomm/koop-ckan_govdata/tarball/master",
 	}
 	--------
 	node setup.js
