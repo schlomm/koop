@@ -97,6 +97,7 @@ Within the koop dir, install koop
 2. `npm install`
 
 The installation can take several minutes.
+
 ----------
 
 ### Koop-Github Gist Module configuration:
