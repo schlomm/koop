@@ -1,4 +1,5 @@
 #Koop - Custom Setup
+## Major parts of this documentation might be outdated as koop has experienced many changes!!!
 
 Information about koop can be found [here](https://github.com/Esri/koop).  In short: koop is something like an adapter between several (mapping-)APIs to serve those as ESRI Feature Service or as a geojson output. You can also describe it as a small "Feature Manipulation Service".
 For more information check the above link.
